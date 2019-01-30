@@ -14,6 +14,7 @@ Education
 * Ph.D in Computer Science, University of Limerick, 2018 - Present
 * M.Eng. in Information and Network Security (3.92 QCA), University of Limerick, 2018
 * B.Tech. in Computer Science and Engineering (75%), Rajasthan Technical University, 2017
+
 Work experience
 ======
 * 2018 - Present: PhD Researcher
