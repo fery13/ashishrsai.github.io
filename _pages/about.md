@@ -10,18 +10,19 @@ redirect_from:
 
 I’m currently a Ph.D. student at the Irish Software Research Center (Lero). Prior to joining Lero, I completed my masters at the University of Limerick, where I specialized in information and network security.
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
   
 Blog
 ======
