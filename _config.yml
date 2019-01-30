@@ -59,7 +59,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Ashish Rajendra Sai"
-  avatar           : "profile.png"
+  avatar           : "https://user-images.githubusercontent.com/7372454/51974572-252ea480-2478-11e9-8b82-167d53adde95.jpg"
   bio              : "I’m currently a Ph.D. student at the University of Limerick concentrating on information and network security."
   location         : "Ireland"
   employer         : Irish Software Research Centre
