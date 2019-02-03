@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. student at the Irish Software Research Center (Lero). Prior to joining Lero, I completed my masters at the University of Limerick, where I specialized in information and network security.
+I’m currently a Ph.D. student at the Irish Software Research Centre (Lero). Prior to joining Lero, I completed my masters at the University of Limerick, where I specialized in information and network security.
 
 Teaching
 ======
